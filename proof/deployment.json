@@ -1,0 +1,14 @@
+{
+  "network": "GenLayer StudioNet",
+  "chain_id": 61999,
+  "deployer_account": "origin-trace-e2e-3",
+  "deployer_address": "0x8d4e752ae688c21ec7c7d4d8a232b5e0700dbf0f",
+  "contract_address": "0x409818F02f75e8FC7E69620DcFC2669BAE59774b",
+  "deployment_transaction": "0xca71fd4f26c00ac33f829435e30e39685c3fafd0d588d5f9d7c7d508bc25978e",
+  "deployment_status": "ACCEPTED",
+  "consensus": "MAJORITY_AGREE",
+  "contract_source_sha256": "2357c54602e146398d9eb6540ec7857bb86dd0bfa279c2de05c933431e7cf6c9",
+  "protocol_id": "release-sentinel.release-notary.v1",
+  "protocol_version": 1,
+  "deployed_at": "2026-10-07"
+}
